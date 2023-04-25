@@ -16,7 +16,8 @@ jobs:
         with:
           filename: metrics.plugin.lines.history.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          user: vladimirvshivkov
+          base: header, activity, community, repositories, metadata
           plugin_lines: yes
           plugin_lines_sections: repositories, history
           plugin_lines_repositories_limit: 2
