@@ -1,1 +1,1 @@
-![Metrics](/github-metrics.svg)
+![Metrics](/metrics.plugin.lines.history.svg)
